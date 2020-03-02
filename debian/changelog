@@ -1,3 +1,9 @@
+debootstrap (1.0.119~bpo10+1) buster-backports; urgency=medium
+
+  * Rebuild for buster-backports.
+
+ -- Luca Falavigna <dktrkranz@debian.org>  Mon, 02 Mar 2020 07:47:58 +0100
+
 debootstrap (1.0.119) unstable; urgency=medium
 
   [ Hideki Yamane ]
