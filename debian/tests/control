@@ -17,3 +17,11 @@ Depends:
  python3-flask,
  python3-requests,
 Restrictions: allow-stderr
+
+Tests: arch-all-support
+Depends:
+ debootstrap,
+ python3-apt,
+ python3-flask,
+ python3-requests,
+Restrictions: allow-stderr
